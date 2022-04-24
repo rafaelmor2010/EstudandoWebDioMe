@@ -28,6 +28,6 @@ public class TabuadaObjetoScanner {
 		
 			}
 			
-	
+	System.out.println("Obrigado tenha fé que vc vai conseguir "+nomeUsuario);
 	}
 }
